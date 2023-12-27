@@ -28,7 +28,6 @@ export const RESUME_DATA = {
     "Full Stack Data Scientist focused on building data products that solve real-world problems.",
   summary:
     "As a Data Scientist, I have experience in building data pipelines, training and deploying machine learning models, and building data visualizations. I work mostly with Python, PyTorch, Plotly Dash.I have 2 years of experience in working with real-world data to solve real-world problems.",
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
   personalWebsiteUrl: "https://damontingey.vercel.app/",
   contact: {
