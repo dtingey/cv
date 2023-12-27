@@ -20,28 +20,29 @@ import { LinkedInIcon } from "../components/icons/LinkedInIcon";
 import { XIcon } from "../components/icons/XIcon";
 
 export const RESUME_DATA = {
-  name: "Bartosz Jarocki",
-  initials: "BJ",
-  location: "Wrocław, Poland, CET",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  name: "Damon Tingey",
+  initials: "DT",
+  location: "Provo, UT, USA, MST",
+  locationLink: "https://www.google.com/maps/place/Provo",
   about:
-    "Full Stack Engineer focused on building products with extra attention to details",
+    "Full Stack Data Scientist focused on building data products that solve real-world problems.",
   summary:
+    "As a Data Scientist, I have experience in building data pipelines, training and deploying machine learning models, and building data visualizations. I work mostly with Python, PyTorch, Plotly Dash.I have 2 years of experience in working with real-world data to solve real-world problems.",
     "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+  personalWebsiteUrl: "https://damontingey.vercel.app/",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "damon.tingey at gmail dot com",
+    tel: "+1 (435)294-6293",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/BartoszJarocki",
+        url: "https://github.com/dtingey",
         icon: GitHubIcon,
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/bjarocki/",
+        url: "https://www.linkedin.com/in/damon-tingey/",
         icon: LinkedInIcon,
       },
       {
@@ -53,23 +54,23 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
-      start: "2007",
-      end: "2010",
+      school: "Brigham Young University",
+      degree: "Bachelor's Degree in Computer Science with emphasis in Data Science, Minors in Physics and Mathematics",
+      start: "2021",
+      end: "2024",
     },
   ],
   work: [
     {
-      company: "Parabol",
-      link: "https://parabol.co",
-      badges: ["Remote"],
-      title: "Senior Full Stack Developer",
+      company: "ZONTAL Inc.",
+      link: "https://zontal.io",
+      badges: [],
+      title: "Junior Data Scientist",
       logo: ParabolLogo,
-      start: "2021",
+      start: "2023",
       end: "2024",
       description:
-        "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
+        "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: Plotly Dash, Python, JavaScript, MongoDB, Airflow, Kubernetes, AWS",
     },
     {
       company: "Clevertech",
@@ -105,8 +106,8 @@ export const RESUME_DATA = {
     },
   ],
   skills: [
-    "JavaScript",
-    "TypeScript",
+    "Python",
+    "PyTorch",
     "React/Next.js/Remix",
     "Node.js",
     "GraphQL",
